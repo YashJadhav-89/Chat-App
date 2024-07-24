@@ -13,14 +13,15 @@ This project is a full-stack real-time messaging application built with modern t
 
 ### Technologies Used:
 
-Frontend
+## Frontend:
+
 React: A JavaScript library for building user interfaces.
 
 Redux-Toolkit: Provides state management with predictable state containers.
 
 Responsive Design: Ensures the app adapts to various screen sizes and devices.
 
-Backend
+## Backend:
 Node.js: A runtime environment for running JavaScript on the server.
 
 Express: A minimal and flexible Node.js web application framework.
