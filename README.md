@@ -11,14 +11,14 @@ This project is a Chat application built with React (frontend) and Node.js (back
 Real-Time Messaging Chat App
 This project is a full-stack real-time messaging application built with modern technologies to provide seamless communication between users. It leverages WebSocket technology via Socket.io for instant messaging capabilities, while MongoDB serves as the database for storing messages and user data. The frontend is developed using React with Redux-Toolkit for state management, ensuring a responsive and intuitive user interface.
 
-###Technologies Used:
-##Frontend:
+Technologies Used:
 
+Frontend:
 React: A JavaScript library for building user interfaces.
 Redux-Toolkit: Provides state management with predictable state containers.
 Responsive Design: Ensures the app adapts to various screen sizes and devices.
-Backend:
 
+Backend:
 Node.js: A runtime environment for running JavaScript on the server.
 Express: A minimal and flexible Node.js web application framework.
 Socket.io: Enables real-time, bidirectional, and event-based communication.
