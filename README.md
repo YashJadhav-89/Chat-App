@@ -15,14 +15,20 @@ This project is a full-stack real-time messaging application built with modern t
 
 Frontend
 React: A JavaScript library for building user interfaces.
+
 Redux-Toolkit: Provides state management with predictable state containers.
+
 Responsive Design: Ensures the app adapts to various screen sizes and devices.
 
 Backend
 Node.js: A runtime environment for running JavaScript on the server.
+
 Express: A minimal and flexible Node.js web application framework.
+
 Socket.io: Enables real-time, bidirectional, and event-based communication.
+
 MongoDB: A NoSQL database for storing user information and message data.
+
 RESTful API: Integrates backend services with the frontend.
 
 
